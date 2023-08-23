@@ -1,0 +1,2 @@
+# terminator
+Life is Tech
